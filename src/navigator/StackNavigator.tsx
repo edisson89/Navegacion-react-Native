@@ -5,7 +5,7 @@ import { Pagina1Screen } from '../screens/Pagina1Screen';
 import { Pagina2Screen } from '../screens/Pagina2Screen ';
 import { Pagina3Screen } from '../screens/Pagina3Screen ';
 import { PersonaScreen } from '../screens/PersonaScreen';
-import { MenuLateralBasico } from './MenuLateralBasico';
+
 
 export type RootStackParams = {
   Pagina1Screen: undefined,
